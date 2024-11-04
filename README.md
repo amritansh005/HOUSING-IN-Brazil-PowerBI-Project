@@ -14,3 +14,12 @@ Q. What is the relationship between property size and price? (Likely looking for
 Q. What is the relationship between location and price? (This might involve comparing prices across different locations, perhaps using visualizations)
 
 Q. How can I effectively visualize the relationships between these variables to understand the trends?
+
+| property_type | region    | area_m2 | price_usd | state     | lat       | lon        |
+|---------------|-----------|---------|-----------|-----------|-----------|------------|
+| apartment     | Northeast | 110.0   | 187230.85 | Alagoas   | -9.644305 | -35.708814 |
+| apartment     | Northeast | 65.0    | 81133.37  | Alagoas   | -9.643093 | -35.704840 |
+| house         | Northeast | 211.0   | 154465.45 | Alagoas   | -9.622703 | -35.729795 |
+| apartment     | Northeast | 99.0    | 146013.20 | Alagoas   | -9.622837 | -35.719556 |
+| apartment     | Northeast | 55.0    | 101416.71 | Alagoas   | -9.654955 | -35.700227 |
+
