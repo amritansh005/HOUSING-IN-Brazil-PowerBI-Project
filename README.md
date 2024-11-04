@@ -1,4 +1,4 @@
-
+Check my badge: https://www.credly.com/badges/01e86b96-8bbc-4ccd-9a87-cf6d0b7b536a/public_url
 
 In this real estate analysis project, I utilized a dataset comprising 21,000(approx) properties for analysis. It's a real time but old data obtained from a company website. My analysis involved importing and pre-processing data from an excel file in python, cleaning it and generating insightful data visualizations using Power BI. This project allowed me to demonstrate my ability to manipulate data, perform statistical analysis and interpret results effectively.
 
